@@ -14,6 +14,4 @@ public class comparators{
             return Long.signum((ax * ax + ay * ay) - (bx * bx + by * by));
         }
     };
-
-
 }
