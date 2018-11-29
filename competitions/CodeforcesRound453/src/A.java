@@ -1,0 +1,86 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
+
+public class A {
+    static class FastReader
+    {
+        BufferedReader br;
+        StringTokenizer st;
+
+        public FastReader()
+        {
+            br = new BufferedReader(new
+                    InputStreamReader(System.in));
+        }
+
+        String next()
+        {
+            while (st == null || !st.hasMoreElements())
+            {
+                try
+                {
+                    st = new StringTokenizer(br.readLine());
+                }
+                catch (IOException  e)
+                {
+                    e.printStackTrace();
+                }
+            }
+            return st.nextToken();
+        }
+
+        int nextInt()
+        {
+            return Integer.parseInt(next());
+        }
+
+        long nextLong()
+        {
+            return Long.parseLong(next());
+        }
+
+        double nextDouble()
+        {
+            return Double.parseDouble(next());
+        }
+
+        String nextLine()
+        {
+            String str = "";
+            try
+            {
+                str = br.readLine();
+            }
+            catch (IOException e)
+            {
+                e.printStackTrace();
+            }
+            return str;
+        }
+    }
+
+    public static void main (String[] args) {
+        FastReader sc = new FastReader();
+        int n = sc.nextInt();
+        int m = sc.nextInt();
+        int j, d[][] = new int[n][2];
+        for(int i = 0; i < n; i++){
+            d[i][0] = sc.nextInt();
+            d[i][1] = sc.nextInt();
+        }
+        for(int i = 1; i <= m; i++) {
+            j = 0;
+            for (; j < n; j++) {
+                if(i > d[j][0] && i <= d[j][1])
+                    break;
+            }
+            if(j == n){
+                System.out.println("NO");
+                return;
+            }
+        }
+        System.out.println("YES");
+    }
+}

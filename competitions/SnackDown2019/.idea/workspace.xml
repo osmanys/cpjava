@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0768d2d3-3c3d-40db-b50b-64db83f2457b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Codeforces508/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codeforces508/src/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codeforces508/src/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codeforces508/src/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codeforces508/src/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codeforces508/src/template.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCodeTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCodeTest/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NovemberChallenge18/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NovemberChallenge18/src/CHFTIRED.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NovemberChallenge18/src/CHHAPPY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NovemberChallenge18/src/GMEDIAN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NovemberChallenge18/src/HMAPPY1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NovemberChallenge18/src/PRDRG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NovemberChallenge18/src/template.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OctoberChallenge18/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OctoberChallenge18/src/BITOBYT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OctoberChallenge18/src/CHSERVE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OctoberChallenge18/src/HMAPPY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OctoberChallenge18/src/MINDSUM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OctoberChallenge18/src/template.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeptemberChallenge18/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeptemberChallenge18/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeptemberChallenge18/src/ANDSQR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeptemberChallenge18/src/ANDSQR_TEST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeptemberChallenge18/src/BSHUFFLE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeptemberChallenge18/src/BSHUFFLE_TEST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeptemberChallenge18/src/PHOTOCOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeptemberChallenge18/src/TABGAME.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeptemberChallenge18/src/template.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PreElimination/BUDDYNIM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PreElimination/INVENTRY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Qualifier/QABC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Qualifier/SPREAD2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Qualifier/TEAMMATE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Round1A/ARRGRAPH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Round1A/AVGMAT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Round1A/AVGMAT2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Round1A/CARDMGK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Round1A/CHEFADD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Round1A/PERIODIC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UniversityCodesprint5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UniversityCodesprint5/src/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UniversityCodesprint5/src/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UniversityCodesprint5/src/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UniversityCodesprint5/src/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UniversityCodesprint5/src/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UniversityCodesprint5/src/F.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UniversityCodesprint5/src/template.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1778263541">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="41" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="11" />
+          <entry key="project.open.time.11" value="10" />
+          <entry key="project.open.time.12" value="10" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="42" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="6" />
+          <entry key="java" value="8780" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="8780" />
+          <entry key="PLAIN_TEXT" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PreElimination/INVENTRY.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+              <folding>
+                <element signature="class#FastReader#0;class#INVENTRY#0" />
+                <element signature="e#871#872#0" expanded="true" />
+                <element signature="e#926#927#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PreElimination/BUDDYNIM.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="class#FastReader#0;class#BUDDYNIM#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Qualifier/TEAMMATE.java" />
+        <option value="$PROJECT_DIR$/src/Qualifier/QABC.java" />
+        <option value="$PROJECT_DIR$/src/Qualifier/SPREAD2.java" />
+        <option value="$PROJECT_DIR$/src/Round1A/B.java" />
+        <option value="$PROJECT_DIR$/src/Round1A/A.java" />
+        <option value="$PROJECT_DIR$/src/Round1A/AVGMAT.java" />
+        <option value="$PROJECT_DIR$/src/Round1A/ARRGRAPH.java" />
+        <option value="$PROJECT_DIR$/src/Round1A/CARDMGK.java" />
+        <option value="$PROJECT_DIR$/src/Round1A/AVGMAT2.java" />
+        <option value="$PROJECT_DIR$/src/PERIODIC.java" />
+        <option value="$PROJECT_DIR$/src/Round1A/CHEFADD.java" />
+        <option value="$PROJECT_DIR$/src/Round1A/PERIODIC.java" />
+        <option value="$PROJECT_DIR$/src/template.java" />
+        <option value="$PROJECT_DIR$/src/BUDDYNIM.java" />
+        <option value="$PROJECT_DIR$/src/INVENTRY.java" />
+        <option value="$PROJECT_DIR$/src/PreElimination/BUDDYNIM.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SnackDown2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SnackDown2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SnackDown2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SnackDown2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="Round1A" />
+      <recent name="Qualifier" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.INVENTRY">
+    <configuration name="ARRGRAPH" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Round1A.ARRGRAPH" />
+      <module name="SnackDown2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Round1A.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BUDDYNIM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PreElimination.BUDDYNIM" />
+      <module name="SnackDown2019" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CHEFADD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Round1A.CHEFADD" />
+      <module name="SnackDown2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Round1A.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="INVENTRY" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PreElimination.INVENTRY" />
+      <module name="SnackDown2019" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PERIODIC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Round1A.PERIODIC" />
+      <module name="SnackDown2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Round1A.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ARRGRAPH" />
+      <item itemvalue="Application.CHEFADD" />
+      <item itemvalue="Application.PERIODIC" />
+      <item itemvalue="Application.INVENTRY" />
+      <item itemvalue="Application.BUDDYNIM" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.INVENTRY" />
+        <item itemvalue="Application.BUDDYNIM" />
+        <item itemvalue="Application.PERIODIC" />
+        <item itemvalue="Application.CHEFADD" />
+        <item itemvalue="Application.ARRGRAPH" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0768d2d3-3c3d-40db-b50b-64db83f2457b" name="Default Changelist" comment="" />
+      <created>1539569152152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539569152152</updated>
+      <workItem from="1539569153711" duration="1480000" />
+      <workItem from="1539570829341" duration="295000" />
+      <workItem from="1539630562145" duration="1781000" />
+      <workItem from="1539632384297" duration="1657000" />
+      <workItem from="1539634381857" duration="512000" />
+      <workItem from="1539638888882" duration="971000" />
+      <workItem from="1539641192971" duration="1544000" />
+      <workItem from="1539643209550" duration="1118000" />
+      <workItem from="1539958498802" duration="216000" />
+      <workItem from="1539963180628" duration="1283000" />
+      <workItem from="1539965676809" duration="1747000" />
+      <workItem from="1539967528912" duration="594000" />
+      <workItem from="1539969369770" duration="1261000" />
+      <workItem from="1539974751442" duration="1546000" />
+      <workItem from="1539976559386" duration="1312000" />
+      <workItem from="1539978395589" duration="1708000" />
+      <workItem from="1539984901758" duration="483000" />
+      <workItem from="1539986734276" duration="1785000" />
+      <workItem from="1539988552663" duration="1779000" />
+      <workItem from="1539990373239" duration="1781000" />
+      <workItem from="1540029960502" duration="1123000" />
+      <workItem from="1540031848340" duration="1776000" />
+      <workItem from="1540033658384" duration="1646000" />
+      <workItem from="1540035530642" duration="1694000" />
+      <workItem from="1540039442906" duration="1781000" />
+      <workItem from="1540041263348" duration="908000" />
+      <workItem from="1540043206682" duration="1752000" />
+      <workItem from="1540045304193" duration="1624000" />
+      <workItem from="1540047131311" duration="1895000" />
+      <workItem from="1540049285919" duration="163000" />
+      <workItem from="1540054508570" duration="708000" />
+      <workItem from="1540058609559" duration="1261000" />
+      <workItem from="1540060423944" duration="1565000" />
+      <workItem from="1540062237464" duration="1385000" />
+      <workItem from="1540065960066" duration="1323000" />
+      <workItem from="1540067773907" duration="1817000" />
+      <workItem from="1540069654765" duration="1223000" />
+      <workItem from="1540073198063" duration="198000" />
+      <workItem from="1540087224626" duration="521000" />
+      <workItem from="1540431367387" duration="6000" />
+      <workItem from="1541248070589" duration="426000" />
+      <workItem from="1541249309288" duration="10035000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="59683000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="738" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31340873" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32744783" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39967898" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32744783" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Round1A/PERIODIC.java</url>
+          <line>94</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>a[99999]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>a[9999]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Qualifier/TEAMMATE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Qualifier/QABC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Qualifier/SPREAD2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Round1A/ARRGRAPH.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Round1A/CARDMGK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Round1A/AVGMAT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="100" column="33" selection-start-line="97" selection-start-column="13" selection-end-line="100" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Round1A/AVGMAT2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="75" column="37" selection-start-line="75" selection-start-column="37" selection-end-line="75" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Round1A/CHEFADD.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Round1A/PERIODIC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NovemberChallenge18/src/CHFTIRED.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="69" lean-forward="true" selection-start-line="4" selection-end-line="5" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/template.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="70" column="1" selection-start-line="70" selection-start-column="1" selection-end-line="70" selection-end-column="1" />
+          <folding>
+            <element signature="class#FastReader#0;class#template#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PreElimination/BUDDYNIM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#FastReader#0;class#BUDDYNIM#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PreElimination/INVENTRY.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <element signature="class#FastReader#0;class#INVENTRY#0" />
+            <element signature="e#871#872#0" expanded="true" />
+            <element signature="e#926#927#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
