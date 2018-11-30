@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GrailsTest.iml" filepath="$PROJECT_DIR$/GrailsTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GrailsTest_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/GrailsTest_integrationTest.iml" group="GrailsTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GrailsTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/GrailsTest_main.iml" group="GrailsTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GrailsTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/GrailsTest_test.iml" group="GrailsTest" />
+    </modules>
+  </component>
+</project>
