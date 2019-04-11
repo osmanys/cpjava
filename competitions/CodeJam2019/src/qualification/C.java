@@ -65,38 +65,33 @@ public class C {
 
     public static void main (String[] args) {
         FastReader sc = new FastReader();
-        int idx, l, c = sc.nextInt();
+        int j, idx, l, c = sc.nextInt();
         BigInteger d[], r[], ord[];
         HashMap<BigInteger, Character> dict;
         StringBuilder sb;
         for(int t = 1; t <= c; t++) {
-            sc.nextInt();
+            sc.next();
             l = sc.nextInt();
             d = new BigInteger[l];
             for(int i = 0; i < l; i++)
                 d[i] = new BigInteger(sc.next());
             r = new BigInteger[l + 1];
             ord = new BigInteger[l + 1];
-            for(int i = 1; i < l; i++) {
-                if (d[i - 1].compareTo(d[i]) != 0) {
-                    r[i] = gcd(d[i - 1], d[i]);
-                    ord[i] = r[i];
+            for(j = 1; j < l; j++) {
+                if (d[j - 1].compareTo(d[j]) != 0) {
+                    r[j] = gcd(d[j - 1], d[j]);
+                    ord[j] = r[j];
+                    break;
                 }
             }
-            for(int i = 1; i < l; i++){
-                if(r[i] == null && r[i - 1] != null) {
-                    r[i] = d[i - 1].divide(r[i - 1]);
-                    ord[i] = r[i];
-                }
+            for(int i = j + 1; i <= l; i++){
+                r[i] = d[i - 1].divide(r[i - 1]);
+                ord[i] = r[i];
             }
-            for(int i = l - 2; i >= 0; i--){
-                if(r[i] == null && r[i + 1] != null) {
-                    r[i] = d[i].divide(r[i + 1]);
-                    ord[i] = r[i];
-                }
+            for(int i = j - 1; i >= 0; i--){
+                r[i] = d[i].divide(r[i + 1]);
+                ord[i] = r[i];
             }
-            r[l] = d[l - 1].divide(r[l - 1]);
-            ord[l] = r[l];
             Arrays.sort(ord);
             dict = new HashMap<>();
             idx = 0;

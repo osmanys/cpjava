@@ -1,7 +1,11 @@
-import java.io.*;
-import java.util.*;
+package training._2018.round1a;
 
-public class template {
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
+
+public class C {
 
     static class FastReader
     {
@@ -62,8 +66,8 @@ public class template {
 
     public static void main (String[] args) {
         FastReader sc = new FastReader();
-        int tc = sc.nextInt();
-        for(int t = 1; t <= tc; t++) {
+        int c = sc.nextInt();
+        for(int t = 1; t <= c; t++) {
             System.out.println("Case #" + t + ": ");
         }
     }
